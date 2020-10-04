@@ -1,5 +1,6 @@
 ---
 layout: home
+head-extra: favicon.html
 ---
 
 Seyed P. Razavi-Nematollahi is a philosopher and technologist. He studied Artificial Intelligence at the University of Manchester before working as a software engineer for 15 years. He has spent the last 5 years as a technology consultant and solution architect.
